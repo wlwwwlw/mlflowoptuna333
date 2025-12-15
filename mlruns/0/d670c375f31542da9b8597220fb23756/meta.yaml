@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/onewi/Desktop/pRAZ/3/mlruns/0/d670c375f31542da9b8597220fb23756/artifacts
+end_time: 1765279345041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d670c375f31542da9b8597220fb23756
+run_name: optuna_study
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765279277660
+status: 3
+tags: []
+user_id: onewi

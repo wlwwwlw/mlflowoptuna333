@@ -1,0 +1,13 @@
+{
+  "best_accuracy": 1.0,
+  "best_params": {
+    "n_layers": 2,
+    "hidden_dim": 126,
+    "dropout": 0.30000000000000004,
+    "lr": 0.00021935533201329418,
+    "batch_size": 8,
+    "epochs": 112
+  },
+  "n_trials": 20,
+  "best_trial_number": 12
+}

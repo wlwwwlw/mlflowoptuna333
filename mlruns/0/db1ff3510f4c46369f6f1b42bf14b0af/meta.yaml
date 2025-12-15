@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/onewi/Desktop/pRAZ/3/mlruns/0/db1ff3510f4c46369f6f1b42bf14b0af/artifacts
+end_time: 1765235485633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db1ff3510f4c46369f6f1b42bf14b0af
+run_name: trial-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765235481210
+status: 3
+tags: []
+user_id: onewi
