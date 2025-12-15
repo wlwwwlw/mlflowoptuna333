@@ -106,14 +106,6 @@ mlflow run [https://github.com/](https://github.com/)<ваш_логин>/mlflow-
 - confusion matrix, где модель корректно классифицирует все объекты тестовой выборки (accuracy = 1.0);
 - веса лучшей модели и сводку результатов в `summary.json`.
 
-![1765800443176](image/README/1765800443176.png)
-
-![1765800485496](image/README/1765800485496.png)
-
-![1765800509259](image/README/1765800509259.png)
-
-![1765800537899](image/README/1765800537899.png)
-
 ## Требования
 
 - Python 3.9+
